@@ -27092,7 +27092,7 @@ var _stylesCss = require("./styles.css");
     email: "vaibhavbpatil123@gmail.com",
     gitHub: "github.com/Vaibhavpatil4744",
     instagram: "Vaibhav",
-    linkedIn: "www.linkedin.com/in/patil-vai",
+    linkedIn: "in/patil-vai",
     twitter: "@Vaibhav21688529"
 };
 const primaryColor = "#4E567E";
